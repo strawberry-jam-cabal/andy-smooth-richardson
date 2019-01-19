@@ -1,9 +1,9 @@
 # main text of home
-name: Jane Doe
+name: Smooth Richie
 bio: A Girl who travels the world eating noodles
 
 # twitter summary info
-description: A blog about technology and stuff related
+description: The website of smooth richie professional saxaphone player
 
 picture: assets/images/picture.jpg
 
@@ -11,10 +11,7 @@ url: http://koppl.in/violet
 # your url: http://USERNAME.github.io
 
 # if you don't have any of social below, comment the line
-facebook: myfacebook
-twitter: mytwitter
-github: mygithub
-email: me@jane.doe
+email: smooth.richie@gmail.com
 
 gems:
   - jekyll-seo-tag
