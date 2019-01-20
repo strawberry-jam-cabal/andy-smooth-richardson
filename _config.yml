@@ -13,7 +13,7 @@ url: http://koppl.in/violet
 # if you don't have any of social below, comment the line
 email: andy.smooth.richie@gmail.com
 
-gems:
+plugins:
   - jekyll-seo-tag
 
 exclude: [README.md, Gemfile, Gemfile.lock, _site, Rakefile, travis.sh, vendor]
