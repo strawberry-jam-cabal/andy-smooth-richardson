@@ -11,7 +11,7 @@ url: http://koppl.in/violet
 # your url: http://USERNAME.github.io
 
 # if you don't have any of social below, comment the line
-email: smooth.richie@gmail.com
+email: andy.smooth.richie@gmail.com
 
 gems:
   - jekyll-seo-tag
